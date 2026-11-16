@@ -53,8 +53,10 @@ Completed and tested as an n8n Academy educational project.
 
 ## Author
 
+Eskandar Balakhanlu
+
 ## Workflow Screenshot
 
 ![Customer Service AI Agent](AI%20Agent.png)
 
-Eskandar Balakhanlu
+
